@@ -1,5 +1,2 @@
-wxcwdvwvwdatas qdcsdcscsdcsd
-dpkf fvdffd
-dfdfm:ùmùùm;m
-dfgdfdf
-
+Go to Jenkins > Manage Jenkins > Configure System and ensure that the Jenkins URL field matches the one that GitHub is trying to reach.
+Verify that the webhook endpoint (the /github-webhook/ path) is enabled and accessible.
